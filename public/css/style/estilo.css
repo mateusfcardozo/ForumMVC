@@ -1,0 +1,16 @@
+header{
+    position: fixed;
+    display: flex;
+    width: 100%;
+    padding: 20px 40px;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.logo{
+font-size: 2em;
+user-select: none;
+}
