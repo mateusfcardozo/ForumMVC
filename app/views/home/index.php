@@ -8,6 +8,9 @@
 </head>
 
 <body>
-<?php include'../parcial/Header_login.html'?>
+<?php include'../parcial/Header.html'?>
+<?php include'../parcial/footer.html'?>
+<?php include'../parcial/main.html'?>
+
 </body>
 </html>
